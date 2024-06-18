@@ -1,0 +1,13 @@
+
+Sampling ----
+In the context of embedded systems, sampling refers to the process of capturing analog signals
+ at regular intervals to convert them into digital form for processing, analysis, and storage. This process is essential in many applications,
+ including sensor data acquisition, audio processing, and control systems.
+ 
+ Azimuth----
+ the angular measurement in a spherical coordinate system which represents the horizontal angle from a cardinal direction, most commonly north.
+ 
+ FFI----
+ A foreign function interface (FFI) is a mechanism by which a program written in one programming language 
+ can call routines or make use of services written or compiled in another one. 
+ An FFI is often used in contexts where calls are made into binary dynamic-link library.
